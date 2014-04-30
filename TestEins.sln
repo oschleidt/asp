@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEins", "TestEins\TestEins.csproj", "{A365294D-F4C3-46CB-9BB6-904C47B3A7A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParlezUnitTest", "ParlezUnitTest\ParlezUnitTest.csproj", "{9DBE78EA-4573-4130-9788-37AC0E294251}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://timkleinschmidt.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TestEins\\TestEins.csproj
+		SccProjectName1 = TestEins
+		SccLocalPath1 = TestEins
+		SccProjectUniqueName2 = ParlezUnitTest\\ParlezUnitTest.csproj
+		SccProjectName2 = ParlezUnitTest
+		SccLocalPath2 = ParlezUnitTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A365294D-F4C3-46CB-9BB6-904C47B3A7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A365294D-F4C3-46CB-9BB6-904C47B3A7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A365294D-F4C3-46CB-9BB6-904C47B3A7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A365294D-F4C3-46CB-9BB6-904C47B3A7A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DBE78EA-4573-4130-9788-37AC0E294251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBE78EA-4573-4130-9788-37AC0E294251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBE78EA-4573-4130-9788-37AC0E294251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBE78EA-4573-4130-9788-37AC0E294251}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
